@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="de.jokir.nfcreader_main" target="1.5" />
+      <module name="de.jokir.nfcreader_test" target="1.5" />
+      <module name="nfctools-core" target="1.6" />
+      <module name="nfctools-ndef" target="1.6" />
+      <module name="nfctools-p2p" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

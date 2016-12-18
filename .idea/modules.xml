@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.jokir.nfcreader.iml" filepath="$PROJECT_DIR$/.idea/modules/de.jokir.nfcreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.jokir.nfcreader_main.iml" filepath="$PROJECT_DIR$/.idea/modules/de.jokir.nfcreader_main.iml" group="de.jokir.nfcreader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.jokir.nfcreader_test.iml" filepath="$PROJECT_DIR$/.idea/modules/de.jokir.nfcreader_test.iml" group="de.jokir.nfcreader" />
+    </modules>
+  </component>
+</project>
